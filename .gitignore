@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Local environment variables
+.env
+
+# Docker
+.dockerignore
+
+# Database
+*.sqlite3
+*.db
+
+# Alembic
+alembic/versions/__pycache__/
+
+# AWS
+.aws/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Misc
+.DS_Store
